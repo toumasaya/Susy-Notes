@@ -17,21 +17,21 @@
 ```
 ## 目錄
 
-* [Susy Map](susy_map.md)
-   * [Using the Susy Map](using_the_susy_map.md)
-* [Susy mixins and functions](susy_mixins_and_functions.md)
-   * [Container Mixin](susy_mixins_and_functions/container_mixin.md)
-   * [Span Mixin](susy_mixins_and_functions/span_mixin.md)
-   * [Span Function](susy_mixins_and_functions/span_function.md)
-   * [Gutter Function](susy_mixins_and_functions/gutter_function.md)
-* [Gutter Position](gutter_position.md)
-   * [after](gutter_position/after.md)
-   * [before](gutter_position/before.md)
-   * [split](gutter_position/split.md)
-   * [inside/inside-static](gutter_position/insideinside-static.md)
-* [Context](context.md)
-   * [Using Context in Nested Layouts](context/using_context_in_nested_layouts.md)
-   * [Identifying Context In Any Situation](context/identifying_context_in_any_situation.md)
+* [Susy Map](docs/susy_map/susy_map.md)
+   * [Using the Susy Map](docs/susy_map/using_the_susy_map.md)
+* [Susy mixins and functions](docs/susy_mixins_and_functions/susy_mixins_and_functions.md)
+   * [Container Mixin](docs/susy_mixins_and_functions/container_mixin.md)
+   * [Span Mixin](docs/susy_mixins_and_functions/span_mixin.md)
+   * [Span Function](docs/susy_mixins_and_functions/span_function.md)
+   * [Gutter Function](docs/susy_mixins_and_functions/gutter_function.md)
+* [Gutter Position](docs/gutter_position/gutter_position.md)
+   * [after](docs/gutter_position/after.md)
+   * [before](docs/gutter_position/before.md)
+   * [split](docs/gutter_position/split.md)
+   * [inside/inside-static](docs/gutter_position/inside_inside-static.md)
+* [Context](docs/context/context.md)
+   * [Using Context in Nested Layouts](docs/context/using_context_in_nested_layouts.md)
+   * [Identifying Context In Any Situation](docs/context/identifying_context_in_any_situation.md)
 
 ## 筆記參考來源
 
